@@ -1,0 +1,34 @@
+{
+  "name": "react-native-jigsaw-puzzle",
+  "version": "0.0.7",
+  "description": "React Native for accessing the iOS Screen Time and Android Digital Wellbeing (coming soon) APIs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noodleofdeath/react-native-jigsaw-puzzle.git"
+  },
+  "keywords": [
+    "screen time",
+    "digital wellbeing",
+    "family controls",
+    "react",
+    "react-native",
+    "android",
+    "ios"
+  ],
+  "author": "noodleofdeath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noodleofdeath/react-native-jigsaw-puzzle/issues"
+  },
+  "homepage": "https://github.com/noodleofdeath/react-native-jigsaw-puzzle#readme",
+  "dependencies": {
+    "react-native": "^0.73.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "@types/react": "^18.2.58",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.3.3"
+  }
+}
